@@ -4,4 +4,4 @@
 
 3. https://coolors.co/palette/ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff-fffffc
 4. https://coolors.co/palette/9b5de5-f15bb5-fee440-00bbf9-00f5d4
-
+5. https://coolors.co/palette/70d6ff-ff70a6-ff9770-ffd670-e9ff70
